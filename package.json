@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "electron --enable-logging start.js"
+  },
+  "dependencies": {
+    "electron": "26.0.0"
+  }
+}
