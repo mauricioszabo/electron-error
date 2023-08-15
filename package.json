@@ -3,6 +3,9 @@
     "start": "electron --enable-logging start.js"
   },
   "dependencies": {
-    "electron": "26.0.0"
+    "electron": "26.0.0",
+    "second-mate": "https://github.com/pulsar-edit/second-mate.git#9686771",
+    "fs-plus": "^3.1.1",
+    "text-buffer": "https://github.com/pulsar-edit/text-buffer.git#12f7a42da"
   }
 }
